@@ -1,9 +1,10 @@
 img {
     display: block;
     max-width: 100%;
-    align: center;
   }
   
-  h3 {
-    color: red;
+  .description {
+    color: rgb(159, 49, 49);
+
+    
   }
